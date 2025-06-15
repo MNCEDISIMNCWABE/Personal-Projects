@@ -43,6 +43,13 @@ I am currently deepening expertise in:
     <td><a href="https://github.com/MNCEDISIMNCWABE/Travel-Planner-with-AI-Agents" target="_blank">View Project</a></td>
   </tr>
   <tr>
+    <td><strong>Multi-Agent RAG</strong></td>
+    <td>Python, CrewAI, LLM (Ollama), Streamlit UI</td>
+    <td>Build a locally hosted multi-agent RAG system that searches and retrieves relevant research papers from a user-specified topic.</td>
+    <td>Completed</td>
+    <td><a href="https://github.com/MNCEDISIMNCWABE/Multi-Agent-RAG/tree/main" target="_blank">View Project</a></td>
+  </tr>
+  <tr>
     <td><strong>Predicting Customer Propensity to Purchase</strong></td>
     <td>Python, Scikit-Learn</td>
     <td>Using data analysis and machine learning to predict the likelihood of a customer making a purchase.</td>
