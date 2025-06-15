@@ -1,6 +1,6 @@
 # Personal-Projects
 
-Currently deepening expertise in:
+I am currently deepening expertise in:
 
 - LLM applications & AI Agents
 
