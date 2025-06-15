@@ -70,4 +70,11 @@ I am currently deepening expertise in:
     <td>Completed</td>
     <td><a href="https://github.com/MNCEDISIMNCWABE/Web-Scraping-and-ETL/tree/main" target="_blank">View Project</a></td>
   </tr>
+  <tr>
+    <td><strong>Multiple Time Series Forecasting</strong></td>
+    <td>Python, LightGBM, Facebook Prophet</td>
+    <td>Using LightGBM and Facebook Prophet Model to Forecast Multiple Time Series.</td>
+    <td>Completed</td>
+    <td><a href="https://github.com/MNCEDISIMNCWABE/Multiple-Time-Series-Forecasting/tree/main" target="_blank">View Project</a></td>
+  </tr>
 </table>
