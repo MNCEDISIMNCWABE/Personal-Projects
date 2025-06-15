@@ -1,4 +1,4 @@
-# Personal-Projects
+# Personal Projects
 
 I am currently deepening expertise in:
 
