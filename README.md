@@ -10,4 +10,4 @@ I am currently deepening expertise in:
 
 | Project | Language/Framework | Description | Status | Link |
 |---------|-------------------|-------------|--------|------|
-| Deploy Machine Learning model in GCP | Python, Flask, Docker, Kubernetes | Building an end-to-end machine learning pipeline to predict loan approvals and deploy the model using Google Cloud Platform, Docker, Kubernetes and Flask | Completed | https://github.com/MNCEDISIMNCWABE/GCP-Deployment-ML-Model-using-Kubernetes-Docker |
+| Deploy Machine Learning model on GCP | Python, Flask, Docker, Kubernetes | Illustrate how to build and deploy an end-to-end machine learning model using Google Cloud Platform, Docker, Kubernetes and Flask | Completed | https://github.com/MNCEDISIMNCWABE/GCP-Deployment-ML-Model-using-Kubernetes-Docker |
