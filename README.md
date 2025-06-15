@@ -56,4 +56,11 @@ I am currently deepening expertise in:
     <td>Completed</td>
     <td><a href="https://github.com/MNCEDISIMNCWABE/Interaction-Terms-Regression" target="_blank">View Project</a></td>
   </tr>
+  <tr>
+    <td><strong>Missing Value Indicators</strong></td>
+    <td>Python</td>
+    <td>Another effective method of handling missing values in a dataset is using missing value indicators.</td>
+    <td>Completed</td>
+    <td><a href="https://github.com/MNCEDISIMNCWABE/Handling-Missing-Values-with-Missing-Value-Indicators" target="_blank">View Project</a></td>
+  </tr>
 </table>
