@@ -28,4 +28,11 @@ I am currently deepening expertise in:
     <td>Completed</td>
     <td><a href="https://github.com/MNCEDISIMNCWABE/GCP-Deployment-ML-Model-using-Kubernetes-Docker" target="_blank">View Project</a></td>
   </tr>
+    <tr>
+    <td><strong>BigQuery SQL AI Agent Powered by LangGraph</strong></td>
+    <td>Python, LangChain, LangGraph, Vertex AI, LLM (Gemini), BigQuery, Streamlit UI</td>
+    <td>Demonstrates how to leverage LangGraph to build an AI agent that takes natural language queries and generate BigQuery SQL scripts.</td>
+    <td>Completed</td>
+    <td><a href="https://github.com/MNCEDISIMNCWABE/BigQuery-SQL-AI-Agent/tree/main" target="_blank">View Project</a></td>
+  </tr>
 </table>
