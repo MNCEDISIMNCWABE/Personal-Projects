@@ -77,4 +77,11 @@ I am currently deepening expertise in:
     <td>Completed</td>
     <td><a href="https://github.com/MNCEDISIMNCWABE/Multiple-Time-Series-Forecasting/tree/main" target="_blank">View Project</a></td>
   </tr>
+    <tr>
+    <td><strong>Comparing Outlier Detection Algorithms</strong></td>
+    <td>Python, PyOD</td>
+    <td>Using the PyOD library to compare the performance of outlier detection algorithms.</td>
+    <td>Completed</td>
+    <td><a href="https://github.com/MNCEDISIMNCWABE/Comparing-Anomaly-Detection-Models/tree/main" target="_blank">View Project</a></td>
+  </tr>
 </table>
