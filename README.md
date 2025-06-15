@@ -4,7 +4,7 @@ I am currently deepening expertise in:
 
 - LLM applications & AI Agents
 
-- Cloud infrastructure design & optimization
+- Data architecture design & optimization
 
 - Data Engineering
 
