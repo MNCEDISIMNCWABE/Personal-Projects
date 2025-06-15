@@ -91,4 +91,12 @@ I am currently deepening expertise in:
     <td>Completed</td>
     <td><a href="https://github.com/MNCEDISIMNCWABE/Comparing-Anomaly-Detection-Models/tree/main" target="_blank">View Project</a></td>
   </tr>
+  </tr>
+    <tr>
+    <td><strong>Data Visualization</strong></td>
+    <td>Power BI, Looker Studio</td>
+    <td>Some of the Data Visualization projects I worked on.</td>
+    <td>Completed</td>
+    <td><a href="https://github.com/MNCEDISIMNCWABE/Data-Analytics-and-Visualisation/blob/main/Data%20Visualization/kickstarter_projects%20report.pdf" target="_blank">View Project</a></td>
+  </tr>
 </table>
