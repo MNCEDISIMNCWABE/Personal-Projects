@@ -52,7 +52,7 @@ I am currently deepening expertise in:
   <tr>
     <td><strong>Improve Regression Model Performance using Interaction Terms</strong></td>
     <td>Python, Scikit-Learn, OLS Regression, Linear Regression</td>
-    <td>Explore how the STAR schema design can be used to optimize a data warehouse, simplify and enhance the performance of SQL queries.</td>
+    <td>The concept of Interaction terms in statistical modelling to improve the performance of a regression model.</td>
     <td>Completed</td>
     <td><a href="https://github.com/MNCEDISIMNCWABE/Interaction-Terms-Regression" target="_blank">View Project</a></td>
   </tr>
