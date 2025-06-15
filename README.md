@@ -63,4 +63,11 @@ I am currently deepening expertise in:
     <td>Completed</td>
     <td><a href="https://github.com/MNCEDISIMNCWABE/Handling-Missing-Values-with-Missing-Value-Indicators" target="_blank">View Project</a></td>
   </tr>
+  <tr>
+    <td><strong>Web scraping and ETL Pipeline</strong></td>
+    <td>Python, Parsel, BigQuery</td>
+    <td> Scrape data from a website, transform and load it to a BigQuery database.</td>
+    <td>Completed</td>
+    <td><a href="https://github.com/MNCEDISIMNCWABE/Web-Scraping-and-ETL/tree/main" target="_blank">View Project</a></td>
+  </tr>
 </table>
