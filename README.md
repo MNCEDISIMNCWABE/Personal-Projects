@@ -42,4 +42,11 @@ I am currently deepening expertise in:
     <td>Completed</td>
     <td><a href="https://github.com/MNCEDISIMNCWABE/Travel-Planner-with-AI-Agents" target="_blank">View Project</a></td>
   </tr>
+  <tr>
+    <td><strong>Optimizing a Data Warehouse with STAR Schema Design</strong></td>
+    <td>SQL, Python</td>
+    <td>Explore how the STAR schema design can be used to optimize a data warehouse, simplify and enhance the performance of SQL queries.</td>
+    <td>Completed</td>
+    <td><a href="https://github.com/MNCEDISIMNCWABE/How-to-Optimize-Data-Warehouse-with-STAR-Schema" target="_blank">View Project</a></td>
+  </tr>
 </table>
