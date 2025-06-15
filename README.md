@@ -43,6 +43,13 @@ I am currently deepening expertise in:
     <td><a href="https://github.com/MNCEDISIMNCWABE/Travel-Planner-with-AI-Agents" target="_blank">View Project</a></td>
   </tr>
   <tr>
+    <td><strong>Predicting Customer Propensity to Purchase</strong></td>
+    <td>Python, Scikit-Learn</td>
+    <td>Using data analysis and machine learning to predict the likelihood of a customer making a purchase.</td>
+    <td>Completed</td>
+    <td><a href="https://github.com/MNCEDISIMNCWABE/Predict-Customer-Purchase-Propensity/tree/main" target="_blank">View Project</a></td>
+  </tr>
+  <tr>
     <td><strong>Optimizing a Data Warehouse with STAR Schema Design</strong></td>
     <td>SQL, Python</td>
     <td>Explore how the STAR schema design can be used to optimize a data warehouse, simplify and enhance the performance of SQL queries.</td>
