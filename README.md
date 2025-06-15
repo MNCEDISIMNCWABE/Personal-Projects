@@ -1,7 +1,7 @@
 # Personal Projects
+Below are some of the projects I worked on in my personal capacity to continuously expand my knowledge and practical skills in data science, data engineering, analytics and AI. These self-directed initiatives reflect my commitment to lifelong learning within the data space.
 
 I am currently deepening expertise in:
-
 - LLM applications & AI Agents
 
 - Data architecture design & optimization
